@@ -1,0 +1,43 @@
+site_name:         Foo Bar Baz
+description:       devops
+home_banner_image_url: https://github.com/podcastjs/podcastjs-demo/assets/3322836/bf561775-d960-4763-b0a8-1c3fb8f58d9c
+home_banner_title: labore et agnam aliquam quaerat
+home_banner_paragraph: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+disqus_shortname:  foo
+base_url:          https://podcastjs.github.io
+about_us_paragraph: qui ratione voluptatem sequi nesciunt
+
+podcasters:
+  jrichardsz:
+    name:				JRichardsz
+    avatar_image:			https://avatars0.githubusercontent.com/u/3322836?s=460&v=4
+    short_biography: Software Architect
+    email:			you@email.com
+    twitter_url:        https://twitter.com/JRichardsz
+    github_url:         https://github.com/jrichardsz
+    stackoverflow_url:  http://stackoverflow.com/users/3957754/jrichardsz
+    youtube_url:        www.youtube.com/@JRichardsz
+    blog_url:           https://jrichardsz.github.io
+
+  bitmanuc:
+    name:				Jane Doe
+    avatar_image:			https://github.com/podcastjs/podcastjs/assets/3322836/741258cf-7b83-4149-bf24-060dc49f3eef
+    short_biography: Sysadmin
+    email:			you@email.com
+    twitter_url:        https://twitter.com/JRichardsz
+    github_url:         https://github.com/jrichardsz
+    stackoverflow_url:  http://stackoverflow.com/users/3957754/jrichardsz
+    youtube_url:        www.youtube.com/@JRichardsz
+    blog_url:           https://jrichardsz.github.io
+
+  patterson:
+    name:				William Patterson 
+    avatar_image:			https://github.com/podcastjs/podcastjs/assets/3322836/90230730-71f0-45b4-b0b5-b0b06bcec78f
+    short_biography: Developer
+    email:			you@email.com
+    twitter_url:        https://twitter.com/JRichardsz
+    github_url:         https://github.com/jrichardsz
+    stackoverflow_url:  http://stackoverflow.com/users/3957754/jrichardsz
+    youtube_url:        www.youtube.com/@JRichardsz
+    blog_url:           https://jrichardsz.github.io    
